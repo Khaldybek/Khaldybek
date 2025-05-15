@@ -34,8 +34,6 @@
 </p>
 
 - 📍 Location: Almaty, Kazakhstan  
-- 📞 Phone: +7 747 912 82 09  
-- 💼 GitHub: [github.com/Khaldybek](https://github.com/Khaldybek)
 
 ---
 
