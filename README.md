@@ -29,7 +29,7 @@
 ### 📞 Contact Me
 
 <p align="center">
-  <a href="https://t.me/SatoshiNakamotoInKz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/lequeensandro"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/Khaldybek"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
