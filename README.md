@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="[https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)" />
+  <img src="[[https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)" />
 </div>
 
 ```
